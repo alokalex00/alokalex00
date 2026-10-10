@@ -12,6 +12,12 @@ I'm a passionate developer who enjoys building clean, responsive, and user-frien
 
 ---
 
+
+## 🐍 Watch My Contributions Get Eaten!
+
+![GitHub Snake Animation](https://raw.githubusercontent.com/alokalex00/alokalex00/output/github-snake.svg)
+
+
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
